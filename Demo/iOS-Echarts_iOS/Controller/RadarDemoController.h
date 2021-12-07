@@ -7,10 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "PYEchartsView.h"
+#import "WKEchartsView.h"
 
 @interface RadarDemoController : UIViewController
 
-@property (nonatomic, weak) IBOutlet PYEchartsView *kEchartView;
+@property (nonatomic, weak) IBOutlet WKEchartsView *kEchartView;
 
 @end

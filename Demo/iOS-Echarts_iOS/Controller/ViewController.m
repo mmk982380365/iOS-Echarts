@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-#import "PYEchartsView.h"
+#import "WKEchartsView.h"
 #import "PYAxis.h"
 #import "PYLegend.h"
 #import "PYCartesianSeries.h"

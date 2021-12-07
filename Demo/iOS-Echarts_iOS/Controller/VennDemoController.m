@@ -11,7 +11,7 @@
 
 @interface VennDemoController ()
 
-@property (weak, nonatomic) IBOutlet PYEchartsView *yEchartView;
+@property (weak, nonatomic) IBOutlet WKEchartsView *yEchartView;
 
 @end
 

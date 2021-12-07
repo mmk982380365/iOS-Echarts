@@ -7,11 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "PYEchartsView.h"
+#import "WKEchartsView.h"
 
 
 @interface ScatterDemoController : UIViewController
 
-@property (nonatomic, weak) IBOutlet PYEchartsView *kEchartView;
+@property (nonatomic, weak) IBOutlet WKEchartsView *kEchartView;
 
 @end

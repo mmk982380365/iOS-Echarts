@@ -9,9 +9,9 @@
 #import "WordCloudDemoController.h"
 #import "PYWorldCloudDemoOptions.h"
 
-@interface WordCloudDemoController ()<PYEchartsViewDelegate>
+@interface WordCloudDemoController ()<WKEchartsViewDelegate>
 
-@property (weak, nonatomic) IBOutlet PYEchartsView *kEcharts;
+@property (weak, nonatomic) IBOutlet WKEchartsView *kEcharts;
 
 @end
 
@@ -31,7 +31,7 @@
 }
 
 #pragma mark PYEchartsViewDelegate
-- (BOOL)echartsView:(PYEchartsView *)echartsView didReceivedLinkURL:(NSURL *)url {
+- (BOOL)echartsView:(WKEchartsView *)echartsView didReceivedLinkURL:(NSURL *)url {
     [[UIApplication sharedApplication] openURL:url];
     return NO;
 }

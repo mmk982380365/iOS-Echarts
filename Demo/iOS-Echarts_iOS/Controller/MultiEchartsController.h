@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "PYEchartsView.h"
+#import "WKEchartsView.h"
 
 @interface MultiEchartsController : UIViewController
 

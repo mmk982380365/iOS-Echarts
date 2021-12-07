@@ -19,7 +19,7 @@ typedef NS_ENUM(NSInteger, GaugesDemoTypeTag) {
 
 @interface GaugesDemoController ()
 
-@property (weak, nonatomic) IBOutlet PYEchartsView *echartsView;
+@property (weak, nonatomic) IBOutlet WKEchartsView *echartsView;
 @property (nonatomic, strong) NSTimer *timer;
 @property (nonatomic, strong) PYOption *option;
 

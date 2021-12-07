@@ -7,7 +7,7 @@
 //
 
 #import "PieDemoController.h"
-#import "PYEchartsView.h"
+#import "WKEchartsView.h"
 
 typedef NS_ENUM(NSInteger, PieDemoTypeBtnTag) {
     PieDemoTypeBtnTagBasicPie = 30000,
@@ -23,7 +23,7 @@ typedef NS_ENUM(NSInteger, PieDemoTypeBtnTag) {
 
 @interface PieDemoController ()
 
-@property (nonatomic, weak) IBOutlet PYEchartsView *kEchartView;
+@property (nonatomic, weak) IBOutlet WKEchartsView *kEchartView;
 
 @end
 

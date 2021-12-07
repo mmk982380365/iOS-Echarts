@@ -14,7 +14,7 @@ typedef NS_ENUM(NSInteger, EventRiverDemoTypeTag) {
 };
 
 @interface EventRiverController ()
-@property (weak, nonatomic) IBOutlet PYEchartsView *echartsView;
+@property (weak, nonatomic) IBOutlet WKEchartsView *echartsView;
 
 @end
 

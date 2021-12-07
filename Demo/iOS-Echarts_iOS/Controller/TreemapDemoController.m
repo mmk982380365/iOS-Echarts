@@ -16,7 +16,7 @@ typedef NS_ENUM(NSInteger, TreemapDemoTypeTag) {
 
 @interface TreemapDemoController ()
 
-@property (weak, nonatomic) IBOutlet PYEchartsView *echartsView;
+@property (weak, nonatomic) IBOutlet WKEchartsView *echartsView;
 
 @end
 

@@ -19,7 +19,7 @@ typedef NS_ENUM(NSInteger, ChordDemoTypeTag) {
 
 @interface ChordDemoController ()
 
-@property (weak, nonatomic) IBOutlet PYEchartsView *echartsView;
+@property (weak, nonatomic) IBOutlet WKEchartsView *echartsView;
 
 @end
 

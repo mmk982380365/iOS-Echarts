@@ -7,10 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "PYEchartsView.h"
+#import "WKEchartsView.h"
 
 @interface EchartsViewCell : UITableViewCell
 
-@property (nonatomic, weak) IBOutlet PYEchartsView *echartView;
+@property (nonatomic, weak) IBOutlet WKEchartsView *echartView;
 
 @end

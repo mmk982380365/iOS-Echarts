@@ -18,7 +18,7 @@ typedef NS_ENUM(NSInteger, FunnelDemoTypeTag) {
 
 @interface FunnelDemoController ()
 
-@property (weak, nonatomic) IBOutlet PYEchartsView *echartsView;
+@property (weak, nonatomic) IBOutlet WKEchartsView *echartsView;
 
 @end
 

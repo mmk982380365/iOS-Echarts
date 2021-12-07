@@ -10,17 +10,17 @@
 
 @interface MultiEcharts2Controller ()
 
-@property (weak, nonatomic) IBOutlet PYEchartsView *echartsView1;
-@property (weak, nonatomic) IBOutlet PYEchartsView *echartsView2;
-@property (weak, nonatomic) IBOutlet PYEchartsView *echartsView3;
-@property (weak, nonatomic) IBOutlet PYEchartsView *echartsView4;
-@property (weak, nonatomic) IBOutlet PYEchartsView *echartsView5;
+@property (weak, nonatomic) IBOutlet WKEchartsView *echartsView1;
+@property (weak, nonatomic) IBOutlet WKEchartsView *echartsView2;
+@property (weak, nonatomic) IBOutlet WKEchartsView *echartsView3;
+@property (weak, nonatomic) IBOutlet WKEchartsView *echartsView4;
+@property (weak, nonatomic) IBOutlet WKEchartsView *echartsView5;
 
-@property (weak, nonatomic) IBOutlet PYEchartsView *echartsView6;
-@property (weak, nonatomic) IBOutlet PYEchartsView *echartsView7;
-@property (weak, nonatomic) IBOutlet PYEchartsView *echartsView8;
-@property (weak, nonatomic) IBOutlet PYEchartsView *echartsView9;
-@property (weak, nonatomic) IBOutlet PYEchartsView *echartsView10;
+@property (weak, nonatomic) IBOutlet WKEchartsView *echartsView6;
+@property (weak, nonatomic) IBOutlet WKEchartsView *echartsView7;
+@property (weak, nonatomic) IBOutlet WKEchartsView *echartsView8;
+@property (weak, nonatomic) IBOutlet WKEchartsView *echartsView9;
+@property (weak, nonatomic) IBOutlet WKEchartsView *echartsView10;
 @end
 
 @implementation MultiEcharts2Controller

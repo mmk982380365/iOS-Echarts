@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "PYEchartsView.h"
+#import "WKEchartsView.h"
 
 /**
  *  地图的Demo集合，主要用来封装官网中的Demo
@@ -15,7 +15,7 @@
  */
 @interface MapDemoController : UIViewController<UITableViewDelegate, UITableViewDataSource>
 
-@property (nonatomic, weak) IBOutlet PYEchartsView *yEchartView;
+@property (nonatomic, weak) IBOutlet WKEchartsView *yEchartView;
 @property (nonatomic, weak) IBOutlet UITableView *yDemoMenusTb;
 
 @end

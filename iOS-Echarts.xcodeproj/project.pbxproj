@@ -67,8 +67,6 @@
 		6F4D590C1D4FE34F00246943 /* PYWordCloudSeries.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F4D58CD1D4FE34F00246943 /* PYWordCloudSeries.m */; };
 		6F4D590D1D4FE34F00246943 /* echarts.html in Resources */ = {isa = PBXBuildFile; fileRef = 6F4D58CF1D4FE34F00246943 /* echarts.html */; };
 		6F4D590F1D4FE34F00246943 /* PYJsonUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F4D58D41D4FE34F00246943 /* PYJsonUtil.m */; };
-		6F4D59101D4FE34F00246943 /* PYEchartsView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F4D58D71D4FE34F00246943 /* PYEchartsView.m */; };
-		6F4D59111D4FE34F00246943 /* PYZoomEchartsView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F4D58D91D4FE34F00246943 /* PYZoomEchartsView.m */; };
 		6F65DB4B1D80A02D00950EC5 /* PYWorldCloudDemoOptions.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F65DB4A1D80A02D00950EC5 /* PYWorldCloudDemoOptions.m */; };
 		6F65DC141D820E2200950EC5 /* PYCandlestickDemoOptions.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F65DC131D820E2200950EC5 /* PYCandlestickDemoOptions.m */; };
 		6F65DC171D8217B700950EC5 /* PYVennDemoOptions.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F65DC161D8217B700950EC5 /* PYVennDemoOptions.m */; };
@@ -132,8 +130,6 @@
 		6F743ACF1D7B03F700C94967 /* PYWordCloudSeries.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F4D58CD1D4FE34F00246943 /* PYWordCloudSeries.m */; };
 		6F743AD01D7B03F700C94967 /* PYChordSeries.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F09E9D81D6CD106006A76CD /* PYChordSeries.m */; };
 		6F743AD11D7B03F700C94967 /* PYJsonUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F4D58D41D4FE34F00246943 /* PYJsonUtil.m */; };
-		6F743AD21D7B03F700C94967 /* PYEchartsView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F4D58D71D4FE34F00246943 /* PYEchartsView.m */; };
-		6F743AD31D7B03F700C94967 /* PYZoomEchartsView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F4D58D91D4FE34F00246943 /* PYZoomEchartsView.m */; };
 		6F743AD51D7B052400C94967 /* js in Resources */ = {isa = PBXBuildFile; fileRef = 6F7352BC1D50A779006CD119 /* js */; };
 		6F743AD61D7B052700C94967 /* echarts.html in Resources */ = {isa = PBXBuildFile; fileRef = 6F4D58CF1D4FE34F00246943 /* echarts.html */; };
 		6F743AD71D7B40FA00C94967 /* PYLineDemoOptions.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F9DCF3A1D7842FF007CEAD2 /* PYLineDemoOptions.m */; };
@@ -328,10 +324,6 @@
 		6F4D58CF1D4FE34F00246943 /* echarts.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = echarts.html; sourceTree = "<group>"; };
 		6F4D58D31D4FE34F00246943 /* PYJsonUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PYJsonUtil.h; sourceTree = "<group>"; };
 		6F4D58D41D4FE34F00246943 /* PYJsonUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PYJsonUtil.m; sourceTree = "<group>"; };
-		6F4D58D61D4FE34F00246943 /* PYEchartsView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PYEchartsView.h; sourceTree = "<group>"; };
-		6F4D58D71D4FE34F00246943 /* PYEchartsView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PYEchartsView.m; sourceTree = "<group>"; };
-		6F4D58D81D4FE34F00246943 /* PYZoomEchartsView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PYZoomEchartsView.h; sourceTree = "<group>"; };
-		6F4D58D91D4FE34F00246943 /* PYZoomEchartsView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PYZoomEchartsView.m; sourceTree = "<group>"; };
 		6F65DB491D80A02D00950EC5 /* PYWorldCloudDemoOptions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PYWorldCloudDemoOptions.h; sourceTree = "<group>"; };
 		6F65DB4A1D80A02D00950EC5 /* PYWorldCloudDemoOptions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PYWorldCloudDemoOptions.m; sourceTree = "<group>"; };
 		6F65DC121D820E2200950EC5 /* PYCandlestickDemoOptions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PYCandlestickDemoOptions.h; sourceTree = "<group>"; };
@@ -676,10 +668,6 @@
 		6F4D58D51D4FE34F00246943 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				6F4D58D61D4FE34F00246943 /* PYEchartsView.h */,
-				6F4D58D71D4FE34F00246943 /* PYEchartsView.m */,
-				6F4D58D81D4FE34F00246943 /* PYZoomEchartsView.h */,
-				6F4D58D91D4FE34F00246943 /* PYZoomEchartsView.m */,
 				542992671E161CA50082986D /* WKEchartsView.h */,
 				542992681E161CA50082986D /* WKEchartsView.m */,
 			);
@@ -941,6 +929,7 @@
 				TargetAttributes = {
 					6C4216751B98E310002D4B7A = {
 						CreatedOnToolsVersion = 6.4;
+						DevelopmentTeam = 3JZ5FTDGK8;
 					};
 					6C42168E1B98E310002D4B7A = {
 						CreatedOnToolsVersion = 6.4;
@@ -956,6 +945,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -1070,7 +1060,6 @@
 				6F9DCF0B1D7841D6007CEAD2 /* BarDemoController.m in Sources */,
 				6F4D58FA1D4FE34F00246943 /* PYToolbox.m in Sources */,
 				6FF570A11D85B0A5007AA7A6 /* PYGaugesDemoOptions.m in Sources */,
-				6F4D59101D4FE34F00246943 /* PYEchartsView.m in Sources */,
 				6F4D58F41D4FE34F00246943 /* PYRoamController.m in Sources */,
 				6F4D58DF1D4FE34F00246943 /* PYAxisPointer.m in Sources */,
 				542992691E161CA50082986D /* WKEchartsView.m in Sources */,
@@ -1089,7 +1078,6 @@
 				6F4D59091D4FE34F00246943 /* PYTreeMapSeries.m in Sources */,
 				6F743AE21D7D8ADA00C94967 /* PYPieDemoOptions.m in Sources */,
 				6F13257E1D93D0650006F114 /* MultiEcharts2Controller.m in Sources */,
-				6F4D59111D4FE34F00246943 /* PYZoomEchartsView.m in Sources */,
 				6F9DCF261D7841D6007CEAD2 /* ScatterDemoController.m in Sources */,
 				6F4D590C1D4FE34F00246943 /* PYWordCloudSeries.m in Sources */,
 				6F9DCF351D7841D6007CEAD2 /* NSUserDefaults+RMSaveCustomObject.m in Sources */,
@@ -1177,7 +1165,6 @@
 				6F743AC61D7B03F700C94967 /* PYMapSeries.m in Sources */,
 				6F743AD01D7B03F700C94967 /* PYChordSeries.m in Sources */,
 				6F743AC81D7B03F700C94967 /* PYMarkPoint.m in Sources */,
-				6F743AD21D7B03F700C94967 /* PYEchartsView.m in Sources */,
 				6F743AA91D7B03F700C94967 /* PYDataZoom.m in Sources */,
 				6F743AA21D7B03F700C94967 /* PYAxisLine.m in Sources */,
 				6F743ACC1D7B03F700C94967 /* PYTreeMapSeries.m in Sources */,
@@ -1186,7 +1173,6 @@
 				6F743AB31D7B03F700C94967 /* PYNodes.m in Sources */,
 				6F743AA71D7B03F700C94967 /* PYColor.m in Sources */,
 				6F743AB21D7B03F700C94967 /* PYNoDataLoadingOption.m in Sources */,
-				6F743AD31D7B03F700C94967 /* PYZoomEchartsView.m in Sources */,
 				6F743AB51D7B03F700C94967 /* PYOption.m in Sources */,
 				6F743AA11D7B03F700C94967 /* PYAxisLabel.m in Sources */,
 				6F743AC21D7B03F700C94967 /* PYForceSeries.m in Sources */,
@@ -1329,6 +1315,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 3JZ5FTDGK8;
 				GCC_PREFIX_HEADER = "$(SRCROOT)/Demo/iOS-Echarts_iOS/iOS-Echarts-PrefixHeader.pch";
 				INFOPLIST_FILE = "$(SRCROOT)/Demo/iOS-Echarts_iOS/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
@@ -1343,6 +1330,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 3JZ5FTDGK8;
 				GCC_PREFIX_HEADER = "$(SRCROOT)/Demo/iOS-Echarts_iOS/iOS-Echarts-PrefixHeader.pch";
 				INFOPLIST_FILE = "$(SRCROOT)/Demo/iOS-Echarts_iOS/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
